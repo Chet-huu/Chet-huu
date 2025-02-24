@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chet-huu
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning spring tool
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me chethanngowda3241@gmail.com
 
 <!---
