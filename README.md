@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chet-huu
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning spring tool
+- 👀 I’m interested in full stack developer
+- 🌱 I’m currently learning java,sql,python,html,css
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me chethanngowda3241@gmail.com
 
